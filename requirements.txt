@@ -1,0 +1,6 @@
+kafka-python
+flask
+flask-sqlalchemy
+pymysql
+sqlalchemy
+schedule
